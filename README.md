@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on opensource projects
--🧑🏾‍💻 I’m open to Frontend development jobs
-**- 💬 Ask me about ...
+- 🧑🏾‍💻 I’m open to Frontend development jobs
 - 📫 How to reach me; feel free to contact me anytime on sethampofo.sa@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I read books and listen to rap music
