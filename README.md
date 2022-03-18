@@ -5,8 +5,7 @@
 - 👯 I’m looking to collaborate on opensource projects
 - 🧑🏾‍💻 I’m open to Frontend development jobs
 - 📫 How to reach me; feel free to contact me anytime on sethampofo.sa@gmail.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I read books and listen to rap music
+- ⚡ Fun fact: I read books and listen to good music😆
 
 <!--
 **s-oa18/s-oa18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
