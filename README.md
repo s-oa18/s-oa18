@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 -🧑🏾‍💻 I’m open to Frontend development jobs
 - 💬 Ask me about ...
 - 📫 How to reach me; feel free to contact me anytime on sethampofo.sa@gmail.com
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: I read books and listen to rap music
 -->
 
