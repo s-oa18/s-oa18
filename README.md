@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on opensource projects
 -🧑🏾‍💻 I’m open to Frontend development jobs
 - 💬 Ask me about ...
-- 📫 How to reach me; feel free to contact me anytime on sethampofo.sa@gmail.com
+- 📫 How to reach me; feel free to contact me anytime at sethampofo.sa@gmail.com
 - ⚡ Fun fact: I read books and listen to rap music
 -->
 
