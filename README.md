@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on opensource projects
-- 🧑🏾‍💻 I’m open to Frontend development jobs
+- 🧑🏾‍💻 I’m open to Full Stack Web development jobs
 - 📫 How to reach me; feel free to contact me anytime on sethampofo.sa@gmail.com
 - ⚡ Fun fact: I read books and listen to good music😆
 
