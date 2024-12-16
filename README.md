@@ -3,7 +3,7 @@
 
 
 - 👯 I’m looking to collaborate on opensource projects
-- 🧑🏾‍💻 I’m open to Full Stack Web development jobs
+- 🧑🏾‍💻 I’m open to Software development and DevOps roles.
 - 📫 How to reach me; feel free to contact me anytime on sethampofo.sa@gmail.com
 - ⚡ Fun fact: I read books and listen to good music😆
 
